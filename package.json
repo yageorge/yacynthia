@@ -1,15 +1,23 @@
 {
-  "name": "yacynthia",
+  "name": "CynthiaYaacoub",
+  "description": "Portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "license": "Proprietary",
+  "homepage": "cynthiayaacoub.com",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@types/react-router-dom": "^5.3.3",
+    "antd": "^4.18.7",
+    "rc-queue-anim": "^2.0.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.1"
   },
   "devDependencies": {
     "@types/react": "^17.0.33",
