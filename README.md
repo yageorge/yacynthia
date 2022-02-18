@@ -1,2 +1,0 @@
-# yacynthia
-Cynthia Yaacoub Portfolio
