@@ -1,5 +1,6 @@
 .metrics__wrapper {
   width: 100%;
+  height: 11rem;
   margin-top: 4rem;
   margin-bottom: 4rem;
   display: grid;
@@ -18,8 +19,15 @@
   align-items: center;
 }
 
+.metric__content__value{
+  margin-bottom: 0.75rem;
+  font-size: 3.5rem;
+  color: @primary-color;
+}
+
 @media screen and (max-width: 800px) {
   .metrics__wrapper {
     grid-template-columns: repeat(1, minmax(0, 1fr));
+    margin-bottom: 24rem;
   }
 }

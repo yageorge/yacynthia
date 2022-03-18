@@ -1,5 +1,5 @@
 import './styles/antdCustom.less' // AntD Custom Styles
-import {Layout, Menu} from 'antd'
+import {Layout} from 'antd'
 import React from 'react'
 
 import LandingCarousel from './layouts/sections/landing/carousel'
@@ -10,7 +10,6 @@ import Metrics from './layouts/sections/landing/metrics'
 import Brands from './layouts/sections/landing/brands'
 import c5 from '../public/assets/images/c5.jpeg'
 import Courses from './layouts/sections/landing/courses'
-
 
 function App() {
   const {Content} = Layout
