@@ -4,7 +4,7 @@
   "private": true,
   "version": "0.0.1",
   "license": "Proprietary",
-  "homepage": "https://yageorge.github.io/yacynthia/",
+  "homepage": "https://yageorge.github.io/",
   "scripts": {
     "start": "vite",
     "build": "vite build",
