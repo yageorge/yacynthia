@@ -5,6 +5,7 @@ import {createStyleImportPlugin} from 'vite-plugin-style-import'
 import {resolve} from 'path'
 
 export default defineConfig({
+  base:'/yacynthia/',
   plugins: [
     viteReact(),
     tsConfigPath(),
